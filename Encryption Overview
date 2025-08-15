@@ -1,0 +1,10 @@
+Almost every action we take in today’s digital world relies on cryptography.
+ .Encryption safeguards our personal and business transactions.
+ .Digital signatures on software updates confirm the authenticity of their creator or supplier.
+From online banking to secure software deployment, cryptography works silently in the background to keep our data safe and trustworthy.
+
+Cryptography is nothing but the science of protecting information by transforming it into an unreadable format (encryption) so that only authorized parties can read or use it (decryption).
+
+In short:
+Cryptography = Art + Science of securing data using math, algorithms, and keys.
+It’s like writing a secret letter in a code only your friend knows how to read — except instead of simple codes, we use strong mathematical formulas so even the world’s fastest computers struggle to break them.
